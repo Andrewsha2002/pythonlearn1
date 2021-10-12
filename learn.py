@@ -9,3 +9,5 @@ def fu( x ,y):
 
 
 print(fu(2,5))
+
+print(funk(1,2,3))
