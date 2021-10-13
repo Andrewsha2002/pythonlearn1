@@ -7,6 +7,8 @@ def fu( x ,y):
         s += x*i
     return s
 
+print("its time to stop")
+
 
 print(fu(2,5))
 
